@@ -46,7 +46,7 @@ export default function TabTwoScreen() {
       </Collapsible>
       <Collapsible title="Custom fonts">
         <ThemedText>
-          Open <ThemedText type="defaultSemiBold">app/_layout.tsx</ThemedText> to see how to load{' '}
+          Open to see how to load{' '}
           <ThemedText style={{ fontFamily: 'SpaceMono' }}>
             custom fonts such as this one.
           </ThemedText>
