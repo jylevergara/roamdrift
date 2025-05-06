@@ -39,7 +39,6 @@ export default function TabTwoScreen() {
           suffixes to provide files for
           different screen densities
         </ThemedText>
-        <Image source={require('@/assets/images/react-logo.png')} style={{ alignSelf: 'center' }} />
         <ExternalLink href="https://reactnative.dev">
           <ThemedText type="link">Learn more</ThemedText>
         </ExternalLink>
