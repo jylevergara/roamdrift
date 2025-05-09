@@ -38,7 +38,6 @@ export default function HomeScreen() {
           When you're ready, run{' '}
           <ThemedText type="defaultSemiBold">npm run reset-project</ThemedText> to get a fresh{' '}
           <ThemedText type="defaultSemiBold">app</ThemedText> directory. This will move the current{' '}
-          <ThemedText type="defaultSemiBold">app</ThemedText> to{' '}
         </ThemedText>
       </ThemedView>
     </ParallaxScrollView>
