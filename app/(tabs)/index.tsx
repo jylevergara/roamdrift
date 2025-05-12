@@ -33,7 +33,6 @@ export default function HomeScreen() {
         <ThemedText type="subtitle">Step 2: Explore</ThemedText>
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
-        <ThemedText type="subtitle">Step 3: Get a fresh start</ThemedText>
         <ThemedText>
           When you're ready, run
         </ThemedText>
