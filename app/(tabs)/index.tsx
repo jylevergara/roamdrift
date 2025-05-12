@@ -32,11 +32,6 @@ export default function HomeScreen() {
       <ThemedView style={styles.stepContainer}>
         <ThemedText type="subtitle">Step 2: Explore</ThemedText>
       </ThemedView>
-      <ThemedView style={styles.stepContainer}>
-        <ThemedText>
-          When you're ready, run
-        </ThemedText>
-      </ThemedView>
     </ParallaxScrollView>
   );
 }
