@@ -18,7 +18,7 @@ export default function HomeScreen() {
       <ThemedView>
         <HelloWave />
       </ThemedView>
-      <ThemedView style={styles.stepContainer}>
+      <ThemedView>
         <ThemedText type="subtitle">Step 1: Try it</ThemedText>
         <ThemedText>
           Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
