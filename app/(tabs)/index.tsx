@@ -29,7 +29,7 @@ export default function HomeScreen() {
           to open developer tools.
         </ThemedText>
       </ThemedView>
-      <ThemedView style={styles.stepContainer}>
+      <ThemedView>
         <ThemedText type="subtitle">Step 2: Explore</ThemedText>
       </ThemedView>
     </ParallaxScrollView>
