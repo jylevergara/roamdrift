@@ -25,9 +25,6 @@ export default function HomeScreen() {
           Press to open developer tools.
         </ThemedText>
       </ThemedView>
-      <ThemedView>
-        <ThemedText type="subtitle">Step 2: Explore</ThemedText>
-      </ThemedView>
     </ParallaxScrollView>
   );
 }
