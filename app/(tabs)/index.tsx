@@ -20,10 +20,6 @@ export default function HomeScreen() {
       </ThemedView>
       <ThemedView>
         <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-        <ThemedText>
-          Edit <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> to see changes.
-          Press to open developer tools.
-        </ThemedText>
       </ThemedView>
     </ParallaxScrollView>
   );
