@@ -16,9 +16,6 @@ export default function HomeScreen() {
         />
       }>
       <ThemedView>
-        <HelloWave />
-      </ThemedView>
-      <ThemedView>
         <ThemedText type="subtitle">Step 1: Try it</ThemedText>
       </ThemedView>
     </ParallaxScrollView>
