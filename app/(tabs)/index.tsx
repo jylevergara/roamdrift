@@ -12,9 +12,6 @@ export default function HomeScreen() {
           source={require('@/assets/images/partial-react-logo.png')}
         />
       }>
-      <ThemedView>
-        <ThemedText type="subtitle">Step 1: Try it</ThemedText>
-      </ThemedView>
     </ParallaxScrollView>
   );
 }
