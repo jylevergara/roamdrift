@@ -24,9 +24,6 @@ export default function TabTwoScreen() {
           The layout file in <ThemedText type="defaultSemiBold">app/(tabs)/_layout.tsx</ThemedText>{' '}
           sets up the tab navigator.
         </ThemedText>
-        <ExternalLink href="https://docs.expo.dev/router/introduction">
-          <ThemedText type="link">Learn more</ThemedText>
-        </ExternalLink>
       </Collapsible>
       <Collapsible title="Android, iOS, and web support">
         <ThemedText>
