@@ -39,9 +39,6 @@ export default function TabTwoScreen() {
           suffixes to provide files for
           different screen densities
         </ThemedText>
-        <ExternalLink href="https://reactnative.dev">
-          <ThemedText type="link">Learn more</ThemedText>
-        </ExternalLink>
       </Collapsible>
       <Collapsible title="Custom fonts">
         <ThemedText>
