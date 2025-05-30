@@ -47,8 +47,7 @@ export default function TabTwoScreen() {
       </Collapsible>
       <Collapsible title="Animations">
         <ThemedText>
-          This template includes an example of an animated component. The library
-          to create a waving hand animation.
+          This template includes an example of an animated component.
         </ThemedText>
       </Collapsible>
     </ParallaxScrollView>
