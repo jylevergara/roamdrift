@@ -33,13 +33,6 @@ export default function TabTwoScreen() {
           You can open this project on Android, iOS, and the web. To open the web version, press{' '}
         </ThemedText>
       </Collapsible>
-      <Collapsible title="Images">
-        <ThemedText>
-          For static images, you can use the and 
-          suffixes to provide files for
-          different screen densities
-        </ThemedText>
-      </Collapsible>
       <Collapsible title="Custom fonts">
         <ExternalLink href="https://docs.expo.dev/versions/latest/sdk/font">
           <ThemedText type="link">Learn more</ThemedText>
