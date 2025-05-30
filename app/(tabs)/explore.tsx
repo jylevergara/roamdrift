@@ -41,9 +41,6 @@ export default function TabTwoScreen() {
         </ThemedText>
       </Collapsible>
       <Collapsible title="Custom fonts">
-        <ThemedText>
-          Open to see how to load
-        </ThemedText>
         <ExternalLink href="https://docs.expo.dev/versions/latest/sdk/font">
           <ThemedText type="link">Learn more</ThemedText>
         </ExternalLink>
