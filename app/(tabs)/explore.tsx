@@ -20,10 +20,6 @@ export default function TabTwoScreen() {
         <ThemedText>
           <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> and{' '}
         </ThemedText>
-        <ThemedText>
-          The layout file in <ThemedText type="defaultSemiBold">app/(tabs)/_layout.tsx</ThemedText>{' '}
-          sets up the tab navigator.
-        </ThemedText>
       </Collapsible>
       <Collapsible title="Android, iOS, and web support">
         <ThemedText>
