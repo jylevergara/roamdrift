@@ -17,11 +17,6 @@ export default function TabTwoScreen() {
           <ThemedText type="defaultSemiBold">app/(tabs)/index.tsx</ThemedText> and{' '}
         </ThemedText>
       </Collapsible>
-      <Collapsible title="Custom fonts">
-        <ExternalLink href="https://docs.expo.dev/versions/latest/sdk/font">
-          <ThemedText type="link">Learn more</ThemedText>
-        </ExternalLink>
-      </Collapsible>
       <Collapsible title="Animations">
         <ThemedText>
           This template includes an example of an animated component.
