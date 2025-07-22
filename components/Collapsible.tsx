@@ -27,10 +27,3 @@ export function Collapsible({ children, title }: PropsWithChildren & { title: st
     </ThemedView>
   );
 }
-
-const styles = StyleSheet.create({
-  content: {
-    marginTop: 6,
-    marginLeft: 24,
-  },
-});
